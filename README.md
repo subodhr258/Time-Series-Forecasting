@@ -15,7 +15,7 @@ Weather Data: https://drive.google.com/drive/folders/1bxSdbVdfV-p6z6gUgHz_k5dppj
     ├── Procfile                        Procfile for Heroku
     ├── README.md                       
     ├── SARIMAX_Model.py                Main model that generates the predictions
-    ├── Time Series Weather Forecast... Jupyter Notebook (The whole process of analysis, building models and hyperparamter tuning)
+    ├── Time Series Weather Forecast... Jupyter Notebook containing the whole process of analysis, building models and hyperparamter tuning
     ├── Time_series_monthly.csv         Preprocessed input series data for SARIMAX model
     ├── app.py                          The main Flask app.
     ├── requirements.txt                Contains all required packages
