@@ -2,7 +2,7 @@
 Live Link:https://temp-forecast.herokuapp.com/  
 Weather Data: https://drive.google.com/drive/folders/1bxSdbVdfV-p6z6gUgHz_k5dppj0pO5Zh  
 
-##Directory Layout  
+## Directory Layout  
 
     .
     ├── static
