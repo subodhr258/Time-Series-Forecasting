@@ -28,3 +28,10 @@ Weather Data: https://drive.google.com/drive/folders/1bxSdbVdfV-p6z6gUgHz_k5dppj
 3) python app.py
 4) Hosted URL: http://127.0.0.1:5000/ 
 ```
+
+## Docker Link: https://hub.docker.com/repository/docker/subodhr/time-series-forecasting
+To run the image in a container locally:
+```
+docker run --name=flask-app -p 5001:5000 -t -i time-series-forecasting
+```
+Host URL: https://localhost:5001/
